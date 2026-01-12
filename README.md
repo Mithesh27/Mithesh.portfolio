@@ -1,1 +1,1 @@
-#mithesh-portfolio.netlify.app
+mithesh-portfolio.netlify.app
